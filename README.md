@@ -1,5 +1,4 @@
 # TasteryTheme
-my first theme for sublime text
 
 Spanish:
 Bueno este es mi primer tema creado para sublime text, espero les guste.
