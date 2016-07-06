@@ -1,0 +1,11 @@
+1-Download the TasteryTheme file
+
+2-Open Sublime text and click on 
+Preferences -> Browse Packages
+
+3-Once you are inside the Sublime Text folder called "Packages" create a new folder naming it "TasteryTheme"
+
+4-Then put the file/files .tmTheme just downloaded from our website inside the "Colorsublime-Themes" folder
+
+5-Cool! Now you should be able to select your custom themes by browsing 
+Preferences -> Color Scheme -> Colorsublime-Themes
